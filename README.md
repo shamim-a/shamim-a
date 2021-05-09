@@ -9,7 +9,7 @@
 * 🌱 I’m currently learning JavaScript🤔
 * 🥅 2021 Goals: Contribute more with JavaScript Basic, React, React Native, Node & Next.js
 * 😄 I want to learn everything 🤣
-* 📫 How to reach me: [Skype][Skype] & [Telegram][Telegram]
+* 📫 How to reach me: [E-mail][Email], [Skype][Skype] & [Telegram][Telegram]
 * ⚡ Fun fact: I love to browsing infomative things on website and watching dramas
 
 ### Connect with me:
@@ -48,21 +48,22 @@
 ---
 
   ## GitHub Stats
-  <img align="center" width="50%" alt="Shamim Ahammad's GitHub Stats" src="https://github-readme-stats-shamim-a.vercel.app/api?username=shamim-a&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+  <img align="center" width="70%" alt="Shamim Ahammad's GitHub Stats" src="https://github-readme-stats-shamim-a.vercel.app/api?username=shamim-a&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <br/>
 
 
  <details>
-  <summary>:zap:  Shamim Ahammad's Language Stats</summary>
+  <summary>:zap:  Shamim Ahammad's most used Language Stats</summary>
   
   
- <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-a&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+ <img align="left" width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-a&card_width=550&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 </details>
   
 <!--Link and Social Network-->
 [website]: https://shamim-a.github.io/personal-web
+[Email]: https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtVcKKRvBZDWZpdrKTqsJzVwHZzspGkPMMGLVFWhJbBjklbNgtwKgkwrZrXMhGXJqMWwrpJv
 [Facebook]: https://www.facebook.com/shamimahammad.sa
 [Twitter]: https://twitter.com/iamshamim0
 [instagram]: https://instagram.com/iamsham_im
