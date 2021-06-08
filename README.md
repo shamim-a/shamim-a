@@ -63,7 +63,7 @@
   
 <!--Link and Social Network-->
 [website]: https://shamim-a.github.io/personal-web
-[Email]: https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtVcKKRvBZDWZpdrKTqsJzVwHZzspGkPMMGLVFWhJbBjklbNgtwKgkwrZrXMhGXJqMWwrpJv
+[Email]: https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=shamim1996.nakla@gmail.com
 [Facebook]: https://www.facebook.com/shamimahammad.sa
 [Twitter]: https://twitter.com/iamshamim0
 [instagram]: https://instagram.com/iamsham_im
