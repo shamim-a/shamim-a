@@ -4,6 +4,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/shamim-a?color=%23181717&label=Follows&logo=GitHub&style=for-the-badge)](https://github.com/shamim-a)
 [![Twitter Follow](https://img.shields.io/twitter/follow/iamshamim0?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiamshamim0&screen_name=iamshamim0)
 
+![](https://komarev.com/ghpvc/?username=shamim-a&style=flat-square&label=PROFILE+VIEWS&color=brightgreen)
+
 ## I'm a Developer, Teacher and Learner!!
 
 * 🌱 I’m currently learning JavaScript🤔
